@@ -1,3 +1,3 @@
 # this is a test
 
-mekuzd
+*mekuzd*
